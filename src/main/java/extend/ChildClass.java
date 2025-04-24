@@ -14,4 +14,9 @@ public class ChildClass extends FatherClass{
     public void getFatherName(){
         System.out.println(name);
     }
+
+    @Override
+    public void makeMoney(String money){
+        System.out.println("child make money");
+    }
 }

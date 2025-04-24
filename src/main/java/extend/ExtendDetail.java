@@ -17,11 +17,17 @@ public class ExtendDetail {
 
 */
 
-    //-------
+        //-------
 
-        ChildClass childClass = new ChildClass();
-        //new ChildClass();
+        //ChildClass childClass = new ChildClass();
+        new ChildClass().makeMoney("100");
+
+
+
 
     }
+
+
+
 }
 
