@@ -1,4 +1,4 @@
-package ControlStatement;
+package controlStatement;
 
 public class LoopControl {
     public static void main(String[] args) {
